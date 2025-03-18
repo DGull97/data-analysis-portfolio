@@ -5,7 +5,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my work in **P
 ## 🔹 Projects
 
 ### 🐍 Python Projects
-- [Machine Learning on the Iris Dataset](Python-Projects/Iris-ML-Analysis.ipynb)  
+- [Data Analysis on the Iris Dataset](Python-Projects/Iris_Dataset_Portfolio.ipynb)  
   *Built a logistic regression model achieving 92% accuracy on the Iris dataset.*
 
 ### 🛢 SQL Projects
